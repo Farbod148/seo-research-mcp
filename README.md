@@ -1,5 +1,7 @@
 # 🌟 seo-research-mcp - Unlock SEO Insights Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/farbod148-seo-research-mcp)
+
 ## 🚀 Getting Started
 
 Welcome to seo-research-mcp, your free SEO research tool. This application helps you analyze backlinks, research keywords, and estimate website traffic using powerful Ahrefs data. With this tool, you can enhance your SEO strategy directly in your favorite AI-powered IDE.
